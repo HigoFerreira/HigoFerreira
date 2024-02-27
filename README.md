@@ -17,8 +17,8 @@
 ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/higotayrone">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://instagram.com/higotayrone" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.gg/yhGkRZnv" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
